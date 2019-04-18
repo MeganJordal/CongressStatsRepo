@@ -57,15 +57,6 @@
               <item name="CongressStats" type="b2602c69:ProjectViewProjectNode" />
               <item name="CongressStats" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CongressStats" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="CongressStats" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.7 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -100,12 +91,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555603884592</updated>
-      <workItem from="1555603887632" duration="1431000" />
+      <workItem from="1555603887632" duration="2026000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1431000" />
+    <option name="totallyTimeSpent" value="2026000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="0" width="615" height="870" extended-state="0" />
