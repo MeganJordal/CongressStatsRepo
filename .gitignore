@@ -1,7 +1,7 @@
 # Created by https://www.gitignore.io/api/macos,python,windows,pycharm
 # Edit at https://www.gitignore.io/?templates=macos,python,windows,pycharm
 
-*.idea/workspace.xml
+.idea/workspace.xml
 
 
 ### macOS ###
